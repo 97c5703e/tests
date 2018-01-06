@@ -1,3 +1,1 @@
-# tests
-testing git commands
-test
+test git
